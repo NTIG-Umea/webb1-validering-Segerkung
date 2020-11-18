@@ -8,3 +8,7 @@ Fixade bort time i p texten
 fixade slut main
 Tog bort onödig footer
 Tog bort time
+skrev om paddin till padding
+skrev om sydost till sydöst
+fixade länken till background
+Fixade till rem
