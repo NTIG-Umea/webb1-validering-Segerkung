@@ -5,3 +5,6 @@ tog bort ul
 fixade date
 Fixade första time
 Fixade bort time i p texten
+fixade slut main
+Tog bort onödig footer
+Tog bort time

@@ -1,5 +1,5 @@
 body {
-  background-image: url('c:\code\wu1-validation\img/IMG_20200727_113945.jpg');
+  background-image: url("/img/IMG_20200727_113945.jpg");
   background-size: cover;
   background-color: #666666;
   font-size: 1;
@@ -44,8 +44,4 @@ h1 {
   color: #efefef;
   background-color: #666666;
   margin-bottom: 0.2;
-}
-
-.footer {
-
 }
