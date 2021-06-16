@@ -12,7 +12,10 @@ body {
   height: auto;
 }
 
-
+a {
+  float: center;
+  padding-left: 2.5rem;
+}
 
 main, header, footer {
   width: 70%;

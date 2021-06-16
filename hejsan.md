@@ -12,3 +12,6 @@ skrev om paddin till padding
 skrev om sydost till sydöst
 fixade länken till background
 Fixade till rem
+
+Snyggade till min kod och tog bort onödig kod
+Snyggade till mitt a element så att den blev i center av skärmen.
