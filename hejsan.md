@@ -15,4 +15,6 @@ Fixade till rem
 
 Snyggade till min kod och tog bort onödig kod
 Snyggade till mitt a element så att den blev i center av skärmen.
-Kollade upp sidan i pages, och den såg horrible ut så fixade bort alla fel på validator.
+Kollade upp sidan i pages, och den såg horrible ut så fixade bort alla fel på validator. (detta kan nog ha varit för att jag glömde
+pusha mina ändringar, men ändå bra att fixa dom få fel som var på validatorn)
+
